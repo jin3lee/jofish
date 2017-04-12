@@ -4,7 +4,7 @@ import android.os.Bundle;
 
 import com.badlogic.gdx.backends.android.AndroidApplication;
 import com.badlogic.gdx.backends.android.AndroidApplicationConfiguration;
-import com.jofish.game.JoFish;
+import com.jofish.game.Init.JoFish;
 
 public class AndroidLauncher extends AndroidApplication {
 	@Override
